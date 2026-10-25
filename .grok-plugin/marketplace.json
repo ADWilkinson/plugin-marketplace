@@ -327,7 +327,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/galleonlabs/hypergrok-trading-desk.git",
-        "sha": "5eb1d9a82157440d64f25a72cd06d9f3977dc472"
+        "sha": "63d7eae55741e2197561b4f52227ed2c97f32e01"
       },
       "homepage": "https://github.com/galleonlabs/hypergrok-trading-desk",
       "keywords": [
@@ -339,7 +339,7 @@
       "domains": [
         "galleonlabs.io"
       ],
-      "version": "1.5.0",
+      "version": "1.7.0",
       "author": {
         "name": "Galleon Labs"
       },

@@ -559,8 +559,8 @@
       }
     },
     "hypergrok": {
-      "sha": "5eb1d9a82157440d64f25a72cd06d9f3977dc472",
-      "version": "1.5.0",
+      "sha": "63d7eae55741e2197561b4f52227ed2c97f32e01",
+      "version": "1.7.0",
       "components": {
         "agents": [
           {
@@ -639,7 +639,7 @@
           },
           {
             "name": "hyperliquid-api-reference",
-            "description": "Compact reference for the Hyperliquid API as the desk uses it - endpoints and envelopes, every /info request type, ever…"
+            "description": "Compact reference for the Hyperliquid API as the desk uses it - endpoints and envelopes, desk-used /info request types…"
           },
           {
             "name": "hyperliquid-market-data",
